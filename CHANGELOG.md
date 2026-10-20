@@ -8,6 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Sections are generated on the release PR from the merged pull requests; do not
 edit this file in an ordinary PR (CI fails). Put notes under `## Changelog` in
 your PR description.
+## [0.45.1](https://github.com/0xPlaygrounds/rig/compare/v0.45.0...v0.45.1) - 2026-10-20
+
+### Other
+
+- 0.45.0 changelog and 0.44 to 0.45 migration guide ([#2866](https://github.com/0xPlaygrounds/rig/pull/2866)) (by [gold-silver-copper](https://github.com/gold-silver-copper)) - #2866
+
+### Contributors
+
+* [gold-silver-copper](https://github.com/gold-silver-copper)
 
 ## [0.45.0](https://github.com/0xPlaygrounds/rig/compare/v0.44.0...v0.45.0) - 2026-10-19
 
